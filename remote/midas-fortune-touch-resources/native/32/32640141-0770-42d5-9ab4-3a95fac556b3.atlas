@@ -1,0 +1,538 @@
+
+s12_jackpot.png
+size: 2036,808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_curtain
+  rotate: false
+  xy: 2, 381
+  size: 629, 425
+  orig: 629, 425
+  offset: 0, 0
+  index: -1
+bom_hl
+  rotate: false
+  xy: 1949, 406
+  size: 74, 74
+  orig: 89, 90
+  offset: 7, 7
+  index: -1
+dian
+  rotate: false
+  xy: 1984, 256
+  size: 40, 41
+  orig: 70, 70
+  offset: 16, 14
+  index: -1
+dian_zi
+  rotate: false
+  xy: 1859, 191
+  size: 8, 8
+  orig: 20, 20
+  offset: 6, 6
+  index: -1
+eff_glow_a
+  rotate: true
+  xy: 1984, 340
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+eff_glow_b
+  rotate: false
+  xy: 1317, 486
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eff_halos
+  rotate: false
+  xy: 1969, 59
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eff_particle
+  rotate: false
+  xy: 787, 15
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_particleline_a
+  rotate: true
+  xy: 483, 257
+  size: 122, 64
+  orig: 122, 64
+  offset: 0, 0
+  index: -1
+eff_particleline_b
+  rotate: false
+  xy: 1859, 125
+  size: 122, 64
+  orig: 122, 64
+  offset: 0, 0
+  index: -1
+eff_quan_a
+  rotate: false
+  xy: 917, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_quan_b
+  rotate: false
+  xy: 1047, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_radial
+  rotate: false
+  xy: 1177, 21
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_xingguang
+  rotate: true
+  xy: 549, 322
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+eft_yanwu
+  rotate: false
+  xy: 1307, 33
+  size: 127, 116
+  orig: 128, 128
+  offset: 0, 11
+  index: -1
+fx/VHT_Tension4
+  rotate: true
+  xy: 1404, 363
+  size: 187, 150
+  orig: 196, 161
+  offset: 4, 5
+  index: -1
+fx/all_inlight_white
+  rotate: false
+  xy: 1869, 191
+  size: 113, 163
+  orig: 113, 163
+  offset: 0, 0
+  index: -1
+fx/star_1
+  rotate: true
+  xy: 1774, 12
+  size: 99, 97
+  orig: 107, 107
+  offset: 4, 6
+  index: -1
+g3_00011
+  rotate: false
+  xy: 1317, 552
+  size: 256, 254
+  orig: 259, 255
+  offset: 1, 0
+  index: -1
+gg2
+  rotate: false
+  xy: 1873, 27
+  size: 94, 96
+  orig: 100, 100
+  offset: 3, 2
+  index: -1
+guangquan2
+  rotate: false
+  xy: 1436, 33
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+guangyun1
+  rotate: false
+  xy: 1571, 124
+  size: 122, 101
+  orig: 128, 128
+  offset: 3, 14
+  index: -1
+jb_1
+  rotate: false
+  xy: 1926, 2
+  size: 48, 23
+  orig: 58, 44
+  offset: 5, 11
+  index: -1
+trophy_coinD_2
+  rotate: false
+  xy: 1926, 2
+  size: 48, 23
+  orig: 50, 25
+  offset: 1, 1
+  index: -1
+jb_2
+  rotate: true
+  xy: 1149, 168
+  size: 46, 25
+  orig: 58, 34
+  offset: 6, 5
+  index: -1
+trophy_coinB_3
+  rotate: true
+  xy: 1149, 168
+  size: 46, 25
+  orig: 48, 27
+  offset: 1, 1
+  index: -1
+lightPoint_0
+  rotate: false
+  xy: 1984, 172
+  size: 35, 35
+  orig: 43, 41
+  offset: 4, 3
+  index: -1
+radial_10
+  rotate: false
+  xy: 1812, 570
+  size: 215, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+ray_030_wx
+  rotate: false
+  xy: 553, 84
+  size: 232, 236
+  orig: 256, 256
+  offset: 8, 0
+  index: -1
+smoke00
+  rotate: true
+  xy: 787, 145
+  size: 175, 146
+  orig: 190, 163
+  offset: 8, 10
+  index: -1
+smoke000
+  rotate: true
+  xy: 1224, 453
+  size: 102, 91
+  orig: 109, 99
+  offset: 3, 5
+  index: -1
+st_guang_2
+  rotate: true
+  xy: 1556, 382
+  size: 136, 181
+  orig: 182, 210
+  offset: 21, 0
+  index: -1
+trophy_BH
+  rotate: false
+  xy: 1575, 520
+  size: 236, 40
+  orig: 238, 42
+  offset: 1, 1
+  index: -1
+trophy_FR
+  rotate: false
+  xy: 936, 216
+  size: 238, 234
+  orig: 240, 236
+  offset: 1, 1
+  index: -1
+trophy_FR1
+  rotate: true
+  xy: 1176, 221
+  size: 229, 226
+  orig: 231, 228
+  offset: 1, 1
+  index: -1
+trophy_coinA_1
+  rotate: false
+  xy: 553, 2
+  size: 46, 33
+  orig: 48, 35
+  offset: 1, 1
+  index: -1
+trophy_coinA_2
+  rotate: false
+  xy: 1459, 8
+  size: 47, 23
+  orig: 49, 25
+  offset: 1, 1
+  index: -1
+trophy_coinA_3
+  rotate: false
+  xy: 601, 2
+  size: 44, 33
+  orig: 46, 35
+  offset: 1, 1
+  index: -1
+trophy_coinA_4
+  rotate: false
+  xy: 1739, 483
+  size: 54, 35
+  orig: 56, 37
+  offset: 1, 1
+  index: -1
+trophy_coinA_5
+  rotate: false
+  xy: 1695, 113
+  size: 149, 35
+  orig: 151, 37
+  offset: 1, 1
+  index: -1
+trophy_coinA_full
+  rotate: false
+  xy: 1695, 150
+  size: 162, 49
+  orig: 162, 49
+  offset: 0, 0
+  index: -1
+trophy_coinB_1
+  rotate: false
+  xy: 647, 2
+  size: 43, 33
+  orig: 45, 35
+  offset: 1, 1
+  index: -1
+trophy_coinB_2
+  rotate: true
+  xy: 1984, 209
+  size: 45, 35
+  orig: 47, 37
+  offset: 1, 1
+  index: -1
+trophy_coinB_4
+  rotate: false
+  xy: 1739, 356
+  size: 183, 48
+  orig: 185, 50
+  offset: 1, 1
+  index: -1
+trophy_coinB_full
+  rotate: false
+  xy: 1386, 151
+  size: 183, 55
+  orig: 183, 55
+  offset: 0, 0
+  index: -1
+trophy_coinC_1
+  rotate: true
+  xy: 612, 338
+  size: 41, 19
+  orig: 43, 21
+  offset: 1, 1
+  index: -1
+trophy_coinC_2
+  rotate: false
+  xy: 1969, 47
+  size: 41, 10
+  orig: 43, 12
+  offset: 1, 1
+  index: -1
+trophy_coinC_3
+  rotate: false
+  xy: 692, 12
+  size: 37, 23
+  orig: 39, 25
+  offset: 1, 1
+  index: -1
+trophy_coinC_4
+  rotate: true
+  xy: 1383, 508
+  size: 42, 18
+  orig: 44, 20
+  offset: 1, 1
+  index: -1
+trophy_coinC_5
+  rotate: false
+  xy: 1176, 151
+  size: 208, 68
+  orig: 210, 70
+  offset: 1, 1
+  index: -1
+trophy_coinC_full
+  rotate: false
+  xy: 1739, 406
+  size: 208, 74
+  orig: 208, 74
+  offset: 0, 0
+  index: -1
+trophy_coinD_1
+  rotate: false
+  xy: 350, 10
+  size: 46, 11
+  orig: 48, 13
+  offset: 1, 1
+  index: -1
+trophy_coinD_3
+  rotate: false
+  xy: 930, 557
+  size: 44, 18
+  orig: 46, 20
+  offset: 1, 1
+  index: -1
+trophy_coinD_4
+  rotate: false
+  xy: 1873, 2
+  size: 51, 23
+  orig: 53, 25
+  offset: 1, 1
+  index: -1
+trophy_coinD_5
+  rotate: false
+  xy: 935, 142
+  size: 212, 72
+  orig: 214, 74
+  offset: 1, 1
+  index: -1
+trophy_core
+  rotate: false
+  xy: 1984, 299
+  size: 47, 39
+  orig: 49, 41
+  offset: 1, 1
+  index: -1
+trophy_gemD_1
+  rotate: false
+  xy: 483, 227
+  size: 34, 28
+  orig: 36, 30
+  offset: 1, 1
+  index: -1
+trophy_gemD_2
+  rotate: false
+  xy: 1317, 452
+  size: 26, 32
+  orig: 28, 34
+  offset: 1, 1
+  index: -1
+trophy_gemD_full
+  rotate: false
+  xy: 1813, 482
+  size: 212, 86
+  orig: 212, 86
+  offset: 0, 0
+  index: -1
+trophy_glow_BH
+  rotate: false
+  xy: 1004, 557
+  size: 311, 249
+  orig: 316, 252
+  offset: 3, 1
+  index: -1
+trophy_goldpile_BH_1
+  rotate: false
+  xy: 2, 9
+  size: 346, 216
+  orig: 348, 218
+  offset: 1, 1
+  index: -1
+trophy_goldpile_FR_1
+  rotate: false
+  xy: 633, 577
+  size: 369, 229
+  orig: 371, 231
+  offset: 1, 1
+  index: -1
+trophy_goldpile_FR_2
+  rotate: false
+  xy: 633, 430
+  size: 295, 145
+  orig: 297, 147
+  offset: 1, 1
+  index: -1
+trophy_goldpile_L1
+  rotate: false
+  xy: 1404, 208
+  size: 153, 153
+  orig: 155, 155
+  offset: 1, 1
+  index: -1
+trophy_goldpile_L2
+  rotate: false
+  xy: 1559, 227
+  size: 153, 153
+  orig: 155, 155
+  offset: 1, 1
+  index: -1
+trophy_goldpile_R2
+  rotate: false
+  xy: 1714, 201
+  size: 153, 153
+  orig: 155, 155
+  offset: 1, 1
+  index: -1
+trophy_goldpile_R3
+  rotate: true
+  xy: 350, 23
+  size: 202, 201
+  orig: 204, 203
+  offset: 1, 1
+  index: -1
+trophy_handle
+  rotate: false
+  xy: 633, 322
+  size: 301, 106
+  orig: 303, 108
+  offset: 1, 1
+  index: -1
+trophy_handle1
+  rotate: false
+  xy: 930, 452
+  size: 292, 103
+  orig: 292, 103
+  offset: 0, 0
+  index: -1
+trophy_light
+  rotate: false
+  xy: 553, 37
+  size: 229, 45
+  orig: 231, 55
+  offset: 1, 5
+  index: -1
+trophy_light_BH
+  rotate: false
+  xy: 2, 227
+  size: 479, 152
+  orig: 1562, 1202
+  offset: 494, 711
+  index: -1
+wwww
+  rotate: false
+  xy: 1575, 562
+  size: 235, 244
+  orig: 256, 256
+  offset: 8, 1
+  index: -1
+x_jin
+  rotate: false
+  xy: 1665, 4
+  size: 107, 107
+  orig: 111, 111
+  offset: 2, 2
+  index: -1
+x_lan
+  rotate: false
+  xy: 1554, 14
+  size: 109, 108
+  orig: 111, 111
+  offset: 1, 2
+  index: -1
+xingli
+  rotate: true
+  xy: 1924, 362
+  size: 42, 54
+  orig: 50, 59
+  offset: 3, 3
+  index: -1
+xx_00026
+  rotate: true
+  xy: 1307, 2
+  size: 29, 150
+  orig: 59, 182
+  offset: 15, 15
+  index: -1

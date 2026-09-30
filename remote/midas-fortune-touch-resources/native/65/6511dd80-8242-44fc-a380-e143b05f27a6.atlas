@@ -1,0 +1,90 @@
+
+s12_spin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bglight
+  rotate: false
+  xy: 450, 639
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+images/ui_arrow
+  rotate: true
+  xy: 2, 607
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+images/ui_arrow copy
+  rotate: true
+  xy: 315, 622
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+images/ui_spin_1
+  rotate: false
+  xy: 572, 791
+  size: 216, 215
+  orig: 216, 215
+  offset: 0, 0
+  index: -1
+images/ui_spin_1 copy
+  rotate: true
+  xy: 572, 577
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+images/ui_spin_1 copy 2
+  rotate: true
+  xy: 787, 577
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+images/ui_spin_2
+  rotate: false
+  xy: 790, 791
+  size: 216, 215
+  orig: 216, 215
+  offset: 0, 0
+  index: -1
+images/ui_stop
+  rotate: false
+  xy: 137, 641
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+lightpoints
+  rotate: true
+  xy: 450, 545
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+neweffect_down1
+  rotate: false
+  xy: 315, 756
+  size: 255, 250
+  orig: 255, 250
+  offset: 0, 0
+  index: -1
+rainbow
+  rotate: false
+  xy: 2, 741
+  size: 311, 265
+  orig: 311, 265
+  offset: 0, 0
+  index: -1
+smoke_L1
+  rotate: false
+  xy: 237, 708
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

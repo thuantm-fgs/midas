@@ -1,0 +1,118 @@
+
+fly_golden_apple.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: false
+  xy: 424, 6
+  size: 211, 223
+  orig: 213, 225
+  offset: 1, 1
+  index: -1
+0003
+  rotate: false
+  xy: 213, 231
+  size: 210, 224
+  orig: 212, 226
+  offset: 1, 1
+  index: -1
+0005
+  rotate: false
+  xy: 2, 229
+  size: 209, 226
+  orig: 211, 228
+  offset: 1, 1
+  index: -1
+0007
+  rotate: false
+  xy: 638, 237
+  size: 206, 218
+  orig: 208, 220
+  offset: 1, 1
+  index: -1
+0009
+  rotate: true
+  xy: 1268, 39
+  size: 207, 205
+  orig: 209, 207
+  offset: 1, 1
+  index: -1
+0011
+  rotate: true
+  xy: 1474, 248
+  size: 207, 205
+  orig: 209, 207
+  offset: 1, 1
+  index: -1
+0013
+  rotate: true
+  xy: 1056, 243
+  size: 212, 208
+  orig: 214, 210
+  offset: 1, 1
+  index: -1
+0015
+  rotate: true
+  xy: 846, 241
+  size: 214, 208
+  orig: 216, 210
+  offset: 1, 1
+  index: -1
+0017
+  rotate: true
+  xy: 1058, 29
+  size: 212, 208
+  orig: 214, 210
+  offset: 1, 1
+  index: -1
+0019
+  rotate: true
+  xy: 1266, 248
+  size: 207, 206
+  orig: 209, 208
+  offset: 1, 1
+  index: -1
+0021
+  rotate: true
+  xy: 1475, 39
+  size: 207, 205
+  orig: 209, 207
+  offset: 1, 1
+  index: -1
+0023
+  rotate: false
+  xy: 850, 26
+  size: 206, 213
+  orig: 208, 215
+  offset: 1, 1
+  index: -1
+0025
+  rotate: false
+  xy: 214, 5
+  size: 208, 224
+  orig: 210, 226
+  offset: 1, 1
+  index: -1
+0027
+  rotate: false
+  xy: 2, 2
+  size: 210, 225
+  orig: 212, 227
+  offset: 1, 1
+  index: -1
+0029
+  rotate: false
+  xy: 425, 232
+  size: 211, 223
+  orig: 213, 225
+  offset: 1, 1
+  index: -1
+0030
+  rotate: false
+  xy: 637, 7
+  size: 211, 223
+  orig: 213, 225
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+background_fx.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lball
+  rotate: true
+  xy: 2, 2
+  size: 242, 216
+  orig: 242, 216
+  offset: 0, 0
+  index: -1
+lightpoint
+  rotate: false
+  xy: 127, 580
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+linelight
+  rotate: false
+  xy: 2, 246
+  size: 123, 385
+  orig: 123, 385
+  offset: 0, 0
+  index: -1

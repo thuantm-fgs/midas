@@ -1,0 +1,62 @@
+
+light_top.png
+size: 1282,1282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JP
+  rotate: false
+  xy: 786, 1123
+  size: 494, 116
+  orig: 496, 118
+  offset: 1, 1
+  index: -1
+JP_light_bot
+  rotate: false
+  xy: 264, 1241
+  size: 440, 39
+  orig: 445, 43
+  offset: 3, 2
+  index: -1
+JP_light_top
+  rotate: false
+  xy: 706, 1241
+  size: 462, 39
+  orig: 466, 43
+  offset: 2, 2
+  index: -1
+glow_top
+  rotate: false
+  xy: 2, 1187
+  size: 390, 52
+  orig: 419, 72
+  offset: 21, 1
+  index: -1
+glow_top copy
+  rotate: false
+  xy: 394, 1187
+  size: 390, 52
+  orig: 419, 72
+  offset: 8, 1
+  index: -1
+header
+  rotate: false
+  xy: 2, 1026
+  size: 1154, 95
+  orig: 1156, 97
+  offset: 1, 1
+  index: -1
+smallglow_bot
+  rotate: false
+  xy: 2, 1274
+  size: 129, 6
+  orig: 129, 6
+  offset: 0, 0
+  index: -1
+smallglow_top
+  rotate: false
+  xy: 133, 1274
+  size: 129, 6
+  orig: 129, 6
+  offset: 0, 0
+  index: -1

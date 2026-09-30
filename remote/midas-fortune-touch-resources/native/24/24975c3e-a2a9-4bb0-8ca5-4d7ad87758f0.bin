@@ -1,0 +1,140 @@
+
+ui.line
+englishLine
+ui.bet
+englishBet
+%ui.totalBet
+english	Total Bet
+"
+ui.balance
+englishBalance
+ui.music
+englishMusic
+ui.sound
+englishSound
+ 	ui.symbol
+englishSymbol
+$ui.quantity
+englishQuantity
+	ui.win
+englishWin
+'
+ui.sessionId
+english
+Session Id
+ui.time
+englishTime
+%ui.totalWin
+english	Total Win
+ui.user
+englishUser
+ui.jpWin
+englishJP Win
+%ui.baseGame
+english	Base Game
+>ui.noBetHistoryWarning"
+englishNo Bet History Recorded
+Fui.noJackpotHistoryWarning&
+englishNo Jackpot History Recorded
++message.goodLuck
+english
+Good Luck!
++message.free_game
+english	FREE GAME
++message.base_game
+english	BASE GAME
++ui.backToHome
+englishBack to home?
+"
+ui.confirm
+englishConfirm
+ui.no
+englishNo
+.ui.info_page_1_title
+english	PAYTABLES
+{ui.info_page_1_text_1`
+englishUAll symbols pay from left to right on adjacent reels starting from the leftmost reel.
+1ui.info_page_2_title
+englishWILD SYMBOLS
+¶ui.info_page_2_text_1ä
+englishThis is the WILD symbol and substitutes for all symbols except for SCATTER and Jackpot Key. It appears only on reel 2, 3 and 4.
+÷ui.info_page_2_text_2∫
+englishÆThese are EXPAND WILD symbols. They appear only on reels 2, 3 and 4 and only in the FREE GAME.
+
+During the round any WILD symbol that hits, if there would be any win after expansion, it expands the whole reel vertically and get random multiplier. Possible values are 1x, 2x, 3x, 4x, 5x, 6x, 7x, 8x, 9x or 10x and will remain on the screen until the end of the round, for all free spins.
+
+The multiplier applies to all winning combinations that it is part of. If more than one WILD is part of the same winning combination, their multipliers add to each other.
+.ui.info_page_3_title
+english	FREE GAME
+Ûui.info_page_3_text_1◊
+englishÀThese are SCATTER symbols. SCATTER symbols appear only on reels 1, 3, and 5 in the base game.
+Hit 3 SCATTER symbols on these reels to trigger the FREE GAME and award
+<color=#C9FF6B>7</color> free spins.
+
+During the round any WILD symbol that hits, if there would be any win after expansion, get a random multiplier from the same possible values and will remain on the screen until the end of the round, for all free spins.
+
+The feature cannot be re-triggered.
+-ui.info_page_4_title
+englishJACKPOTS
+0 ui.info_page_4_text_1
+english
+How to win
+x!ui.info_page_4_text_2]
+englishRLand Key Jackpot symbols on 3 or more reels during the Base Game to win a Jackpot.
+7"ui.info_page_4_text_3
+englishBet-Based Jackpot
+˛#ui.info_page_4_text_4‚
+english÷Jackpots are not shared across all bets. 
+Each Total Bet level has its own dedicated set of <color=5DC73AFF><b>MINI</b></color>, <color=4985D1FF><b>MINOR</b></color>, and <color=EC693CFF><b>GRAND</b></color> pools.
+3$ui.info_page_4_text_5
+englishJackpot Reset
+è%ui.info_page_4_text_6t
+englishiWhen a Jackpot is won, only that specific pool resets to its Initial Value. Other pools remain unchanged.
+9&ui.info_page_4_text_7
+englishProgressive Jackpot
+Å'ui.info_page_4_text_8f
+english[A portion of every spin's Total Bet is added to the Jackpot pools of the current bet level.
+-(ui.info_page_5_title
+englishPAY LINE
+ù)ui.info_page_5_text_1Å
+englishvSimultaneous wins on different winlines are added together.
+Winnings are calculated based on the paytable multipliers.
+0*ui.info_page_6_title
+englishHOW TO PLAY
+0+ui.info_page_6_text_1
+english
+Select Bet
+«,ui.info_page_6_text_2´
+englishüClick  the <img src='btn_bet_plus' width=45 height=45 offset=-10/> or <img src='btn_bet_minus' width=45 height=45 offset=-10/> buttons to change the bet value.
+1-ui.info_page_6_text_3
+englishHow to Spin
+ï.ui.info_page_6_text_4z
+englishoSelect the bet you want to use in the game.
+Press <img src='img_wheel' width=45 height=45  offset=-5/> to SPIN.
+//ui.info_page_6_text_5
+english	Auto Spin
+è0ui.info_page_6_text_6Û
+englishÁPress and hold <img src='img_wheel' width=45 height=45  offset=-5/> to open the Auto-Play settings.
+Choose a specific number of spins to active Auto-Play mode.
+Tap <img src='img_wheel-1' width=45 height=45  offset=-5/> at any time to cancel the remaining automatic spins.
+Auto-Play will automatically stop if your balance is insufficient or out of auto-spins.
+01message.info_paging
+englishPage {0}/{1}
+ 2	ui.copied
+englishCopied
+3ui.ok
+englishOk
+74message.popup_reconnecting
+englishReconnecting
+p5message.popup_lost_connectionM
+englishBConnection lost. Please check your connection and reload the game.
+H6"message.popup_insufficient_balance 
+englishInsufficient balance!
+X7message.popup_unexpected_error4
+english)Unexpected error. Please reload the game!
+28ui.jackpot_history
+englishJackpot History
+*9ui.bet_history
+englishBet History
+O:"message.popup_duplicate_connection'
+englishLogged in on another device.

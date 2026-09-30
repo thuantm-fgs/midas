@@ -1,0 +1,19 @@
+{
+  "develop": {
+    "apiUrl": "https://data-dev.osveuveglobel.club/games"
+  },
+  "staging": {
+    "apiUrl": "https://data.osveuveglobel.club/games"
+  },
+  "gameCode": "midas-fortune-touch",
+  "version": "1.0.6",
+  "remoteUrl": "https://fgs-resource.s3.ap-southeast-1.amazonaws.com/Portal/BundleScene/midas-fortune-touch-remote",
+  "resourceKey": "midas-fortune-touch-resources",
+  "provider": "amb",
+  "integrate": {
+    "amb": {
+      "gameCode": "amb-midas-fortune-touch",
+      "apiUrl": "https://data.osveuveglobel.club/games"
+    }
+  }
+}

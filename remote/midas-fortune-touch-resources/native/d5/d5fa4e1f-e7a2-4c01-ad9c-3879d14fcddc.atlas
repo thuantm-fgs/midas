@@ -1,0 +1,340 @@
+
+s12_popup.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 478, 1839
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+VHT_Tension4
+  rotate: false
+  xy: 1100, 1672
+  size: 196, 161
+  orig: 196, 161
+  offset: 0, 0
+  index: -1
+bgg
+  rotate: false
+  xy: 2, 1778
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bgg2
+  rotate: false
+  xy: 154, 1757
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bw_BIG
+  rotate: false
+  xy: 1298, 1671
+  size: 265, 162
+  orig: 265, 162
+  offset: 0, 0
+  index: -1
+bw_WIN
+  rotate: false
+  xy: 1565, 1671
+  size: 376, 162
+  orig: 376, 162
+  offset: 0, 0
+  index: -1
+bw_fx_1
+  rotate: false
+  xy: 1622, 1275
+  size: 250, 218
+  orig: 250, 218
+  offset: 0, 0
+  index: -1
+bw_statue_L
+  rotate: true
+  xy: 771, 171
+  size: 411, 949
+  orig: 411, 949
+  offset: 0, 0
+  index: -1
+con_smoke
+  rotate: false
+  xy: 2, 1575
+  size: 185, 180
+  orig: 185, 180
+  offset: 0, 0
+  index: -1
+eff_all
+  rotate: true
+  xy: 1591, 973
+  size: 300, 306
+  orig: 300, 306
+  offset: 0, 0
+  index: -1
+en_light
+  rotate: true
+  xy: 533, 1297
+  size: 212, 215
+  orig: 212, 215
+  offset: 0, 0
+  index: -1
+en_light2
+  rotate: false
+  xy: 750, 1281
+  size: 222, 213
+  orig: 222, 213
+  offset: 0, 0
+  index: -1
+en_light3
+  rotate: true
+  xy: 565, 1511
+  size: 174, 318
+  orig: 174, 318
+  offset: 0, 0
+  index: -1
+light2_2
+  rotate: false
+  xy: 118, 1948
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+lightpoint
+  rotate: false
+  xy: 248, 1925
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+lightpoints2
+  rotate: false
+  xy: 301, 1909
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+mw_MEGA
+  rotate: false
+  xy: 2, 1340
+  size: 529, 180
+  orig: 529, 180
+  offset: 0, 0
+  index: -1
+mw_WIN
+  rotate: false
+  xy: 1455, 1495
+  size: 414, 174
+  orig: 414, 174
+  offset: 0, 0
+  index: -1
+number_total
+  rotate: false
+  xy: 617, 1839
+  size: 554, 137
+  orig: 554, 137
+  offset: 0, 0
+  index: -1
+round_light
+  rotate: false
+  xy: 380, 1882
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+sticky_base
+  rotate: false
+  xy: 2, 1045
+  size: 865, 234
+  orig: 865, 234
+  offset: 0, 0
+  index: -1
+sticky_border
+  rotate: false
+  xy: 2, 683
+  size: 940, 302
+  orig: 940, 302
+  offset: 0, 0
+  index: -1
+sticky_gem
+  rotate: false
+  xy: 198, 1929
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+sticky_win
+  rotate: false
+  xy: 306, 1687
+  size: 792, 150
+  orig: 792, 150
+  offset: 0, 0
+  index: -1
+sw_SUPER
+  rotate: false
+  xy: 885, 1496
+  size: 568, 173
+  orig: 568, 173
+  offset: 0, 0
+  index: -1
+sw_WIN
+  rotate: false
+  xy: 189, 1522
+  size: 374, 163
+  orig: 374, 163
+  offset: 0, 0
+  index: -1
+total_WIN
+  rotate: false
+  xy: 1173, 1835
+  size: 783, 141
+  orig: 783, 141
+  offset: 0, 0
+  index: -1
+total_base
+  rotate: false
+  xy: 974, 1278
+  size: 646, 215
+  orig: 646, 215
+  offset: 0, 0
+  index: -1
+total_border
+  rotate: false
+  xy: 869, 987
+  size: 720, 289
+  orig: 720, 289
+  offset: 0, 0
+  index: -1
+total_gem
+  rotate: false
+  xy: 149, 1930
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+tw_fx_1
+  rotate: false
+  xy: 2, 221
+  size: 767, 460
+  orig: 767, 460
+  offset: 0, 0
+  index: -1
+tw_statue_L
+  rotate: true
+  xy: 944, 584
+  size: 387, 1032
+  orig: 387, 1032
+  offset: 0, 0
+  index: -1
+tx/xx0001
+  rotate: true
+  xy: 2, 1951
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+tx/xx0002
+  rotate: true
+  xy: 31, 1951
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+tx/xx0003
+  rotate: true
+  xy: 60, 1951
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+tx/xx0005
+  rotate: true
+  xy: 89, 1951
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+
+s12_popup2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tw_fx_4
+  rotate: false
+  xy: 2, 663
+  size: 1086, 1101
+  orig: 1086, 1101
+  offset: 0, 0
+  index: -1
+{fs}10
+  rotate: true
+  xy: 1090, 667
+  size: 1097, 565
+  orig: 1097, 565
+  offset: 0, 0
+  index: -1
+{fs}11
+  rotate: false
+  xy: 2, 2
+  size: 1113, 659
+  orig: 1113, 659
+  offset: 0, 0
+  index: -1
+{fs}12
+  rotate: true
+  xy: 1117, 146
+  size: 519, 536
+  orig: 519, 536
+  offset: 0, 0
+  index: -1
+
+s12_popup3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mw_side_L
+  rotate: true
+  xy: 2, 415
+  size: 423, 1202
+  orig: 423, 1202
+  offset: 0, 0
+  index: -1
+mw_statue_L
+  rotate: true
+  xy: 549, 1631
+  size: 411, 949
+  orig: 411, 949
+  offset: 0, 0
+  index: -1
+mw_statue_L_glow
+  rotate: true
+  xy: 549, 1218
+  size: 411, 949
+  orig: 411, 949
+  offset: 0, 0
+  index: -1
+sw_statue_L
+  rotate: false
+  xy: 1206, 267
+  size: 411, 949
+  orig: 411, 949
+  offset: 0, 0
+  index: -1
+sw_statue_L_glow
+  rotate: true
+  xy: 2, 2
+  size: 411, 949
+  orig: 411, 949
+  offset: 0, 0
+  index: -1
+tw_bg_L
+  rotate: false
+  xy: 2, 840
+  size: 545, 1202
+  orig: 545, 1202
+  offset: 0, 0
+  index: -1

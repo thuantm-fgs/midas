@@ -1,0 +1,10 @@
+
+message.goodLuck
+message.free_game
+message.base_game
+message.info_paging
+message.popup_reconnecting
+!message.popup_lost_connection
+&"message.popup_insufficient_balance
+"message.popup_unexpected_error
+&	"message.popup_duplicate_connection

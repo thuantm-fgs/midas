@@ -1,0 +1,27 @@
+
+slot_02_multiplier.png
+size: 353,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_multi
+  rotate: false
+  xy: 2, 2
+  size: 232, 87
+  orig: 232, 87
+  offset: 0, 0
+  index: -1
+image
+  rotate: false
+  xy: 2, 91
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+lt1
+  rotate: true
+  xy: 264, 154
+  size: 197, 50
+  orig: 197, 50
+  offset: 0, 0
+  index: -1
