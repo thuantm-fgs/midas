@@ -1,132 +1,167 @@
 
 s12_winline_nearwin.png
-size: 1780,432
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 NEW XU JP COIN
-  rotate: true
-  xy: 1586, 234
-  size: 196, 190
+  rotate: false
+  xy: 2, 646
+  size: 206, 206
   orig: 206, 206
-  offset: 5, 8
+  offset: 0, 0
+  index: -1
+eff_halos
+  rotate: false
+  xy: 498, 936
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eff_trail
+  rotate: false
+  xy: 896, 991
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+eff_trail_white
+  rotate: false
+  xy: 2, 970
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+lightBall_b1
+  rotate: true
+  xy: 2, 871
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 867, 994
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
   index: -1
 nearwin_boom_L
   rotate: true
-  xy: 575, 204
-  size: 214, 368
+  xy: 253, 143
+  size: 235, 368
   orig: 235, 368
   offset: 0, 0
   index: -1
 nearwin_columns_1
   rotate: true
-  xy: 575, 420
-  size: 10, 738
+  xy: 2, 1002
+  size: 19, 740
   orig: 19, 740
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 nearwin_glow_L
   rotate: true
-  xy: 2, 7
-  size: 70, 387
+  xy: 564, 904
+  size: 85, 392
   orig: 85, 392
-  offset: 5, 3
+  offset: 0, 0
   index: -1
 nearwin_glow_below
   rotate: true
-  xy: 945, 205
-  size: 213, 303
+  xy: 2, 395
+  size: 228, 305
   orig: 228, 305
-  offset: 2, 1
+  offset: 0, 0
   index: -1
 nearwin_red
   rotate: true
-  xy: 2, 79
-  size: 165, 467
+  xy: 490, 735
+  size: 167, 469
   orig: 167, 469
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 nearwin_spark_3
-  rotate: false
-  xy: 1279, 278
-  size: 25, 140
+  rotate: true
+  xy: 208, 963
+  size: 37, 143
   orig: 37, 143
-  offset: 10, 1
+  offset: 0, 0
   index: -1
 nearwin_spark_4
   rotate: true
-  xy: 471, 239
-  size: 5, 96
+  xy: 744, 1001
+  size: 20, 121
   orig: 20, 121
-  offset: 12, 9
-  index: -1
-nearwin_spark_5
-  rotate: false
-  xy: 1250, 252
-  size: 27, 166
-  orig: 34, 169
-  offset: 2, 1
+  offset: 0, 0
   index: -1
 nearwin_spark_6
   rotate: true
-  xy: 391, 50
-  size: 27, 72
+  xy: 114, 970
+  size: 30, 92
   orig: 30, 92
-  offset: 1, 7
+  offset: 0, 0
   index: -1
 nearwin_spark_7
   rotate: true
-  xy: 1284, 15
-  size: 24, 141
+  xy: 353, 963
+  size: 37, 143
   orig: 37, 143
-  offset: 4, 1
+  offset: 0, 0
   index: -1
 nearwin_stars
   rotate: true
-  xy: 2, 246
+  xy: 309, 380
   size: 184, 571
   orig: 184, 571
   offset: 0, 0
   index: -1
 nearwin_x_1
   rotate: true
-  xy: 471, 35
+  xy: 219, 794
   size: 167, 269
   orig: 167, 269
   offset: 0, 0
   index: -1
 nearwin_x_2
   rotate: true
-  xy: 742, 35
+  xy: 210, 625
   size: 167, 269
   orig: 167, 269
   offset: 0, 0
   index: -1
 nearwin_x_3
   rotate: true
-  xy: 1013, 36
+  xy: 481, 566
   size: 167, 269
   orig: 167, 269
   offset: 0, 0
   index: -1
 nearwin_x_4
   rotate: true
-  xy: 1315, 263
+  xy: 752, 566
   size: 167, 269
   orig: 167, 269
   offset: 0, 0
   index: -1
+star_1
+  rotate: false
+  xy: 110, 854
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
 winline_blue
   rotate: true
-  xy: 1533, 2
-  size: 230, 232
+  xy: 623, 134
+  size: 244, 248
   orig: 244, 248
-  offset: 7, 9
+  offset: 0, 0
   index: -1
 winline_gold
   rotate: false
-  xy: 1284, 41
-  size: 247, 220
+  xy: 2, 165
+  size: 249, 228
   orig: 249, 228
-  offset: 1, 1
+  offset: 0, 0
   index: -1

@@ -20,7 +20,7 @@ Blue/0013
   index: -1
 Blue/0017
   rotate: false
-  xy: 1783, 1054
+  xy: 1783, 1055
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -69,7 +69,7 @@ Boost/0019
   index: -1
 Boost/0020
   rotate: false
-  xy: 1757, 852
+  xy: 1757, 853
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -195,14 +195,14 @@ Gold/0008
   index: -1
 Gold/0009
   rotate: false
-  xy: 1618, 650
+  xy: 1618, 651
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 Gold/0010
   rotate: false
-  xy: 1820, 650
+  xy: 1820, 651
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -265,14 +265,14 @@ Gold/0018
   index: -1
 Gold/0019
   rotate: false
-  xy: 1618, 448
+  xy: 1618, 449
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 Gold/0020
   rotate: false
-  xy: 1820, 448
+  xy: 1820, 449
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -510,14 +510,14 @@ Pupple/0013
   index: -1
 Pupple/0017
   rotate: false
-  xy: 1618, 246
+  xy: 1618, 247
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 Pupple/0019
   rotate: false
-  xy: 1820, 246
+  xy: 1820, 247
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -580,9 +580,9 @@ apple_glow
   index: -1
 apple_gold
   rotate: false
-  xy: 2, 1391
-  size: 147, 142
-  orig: 147, 142
+  xy: 1866, 1421
+  size: 145, 140
+  orig: 145, 140
   offset: 0, 0
   index: -1
 apple_gold_stem
@@ -594,7 +594,7 @@ apple_gold_stem
   index: -1
 apple_red copy
   rotate: false
-  xy: 1866, 1420
+  xy: 2, 1392
   size: 147, 141
   orig: 147, 141
   offset: 0, 0
@@ -783,7 +783,7 @@ grand_text_glow
   index: -1
 grand_winds copy
   rotate: true
-  xy: 1416, 44
+  xy: 1416, 45
   size: 200, 311
   orig: 200, 311
   offset: 0, 0
@@ -993,7 +993,7 @@ major_glow
   index: -1
 major_wing copy
   rotate: true
-  xy: 1729, 44
+  xy: 1729, 45
   size: 200, 280
   orig: 200, 280
   offset: 0, 0
@@ -1301,7 +1301,7 @@ wild_mirror_9
   index: -1
 wild_mirror_glow
   rotate: true
-  xy: 1851, 1256
+  xy: 1851, 1257
   size: 162, 167
   orig: 162, 167
   offset: 0, 0

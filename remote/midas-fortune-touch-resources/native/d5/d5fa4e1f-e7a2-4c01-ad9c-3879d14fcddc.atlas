@@ -4,256 +4,277 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-1
+Aura_1.30
   rotate: false
-  xy: 478, 1839
-  size: 137, 137
-  orig: 137, 137
+  xy: 204, 1549
+  size: 207, 202
+  orig: 207, 202
   offset: 0, 0
   index: -1
 VHT_Tension4
   rotate: false
-  xy: 1100, 1672
+  xy: 1728, 1841
   size: 196, 161
   orig: 196, 161
   offset: 0, 0
   index: -1
 bgg
   rotate: false
-  xy: 2, 1778
+  xy: 1424, 1852
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 bgg2
   rotate: false
-  xy: 154, 1757
+  xy: 1576, 1852
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 bw_BIG
   rotate: false
-  xy: 1298, 1671
+  xy: 2, 1787
   size: 265, 162
   orig: 265, 162
   offset: 0, 0
   index: -1
 bw_WIN
   rotate: false
-  xy: 1565, 1671
+  xy: 1250, 1688
   size: 376, 162
   orig: 376, 162
   offset: 0, 0
   index: -1
 bw_fx_1
   rotate: false
-  xy: 1622, 1275
+  xy: 757, 1292
   size: 250, 218
   orig: 250, 218
   offset: 0, 0
   index: -1
-bw_statue_L
-  rotate: true
-  xy: 771, 171
-  size: 411, 949
-  orig: 411, 949
-  offset: 0, 0
-  index: -1
 con_smoke
   rotate: false
-  xy: 2, 1575
+  xy: 269, 1753
   size: 185, 180
   orig: 185, 180
   offset: 0, 0
   index: -1
 eff_all
   rotate: true
-  xy: 1591, 973
+  xy: 1657, 1160
   size: 300, 306
   orig: 300, 306
   offset: 0, 0
   index: -1
+eff_glow_b
+  rotate: false
+  xy: 301, 1938
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eff_halos
+  rotate: false
+  xy: 367, 1938
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 en_light
   rotate: true
-  xy: 533, 1297
+  xy: 1719, 1462
   size: 212, 215
   orig: 212, 215
   offset: 0, 0
   index: -1
 en_light2
   rotate: false
-  xy: 750, 1281
+  xy: 533, 1319
   size: 222, 213
   orig: 222, 213
   offset: 0, 0
   index: -1
 en_light3
   rotate: true
-  xy: 565, 1511
+  xy: 983, 1512
   size: 174, 318
   orig: 174, 318
   offset: 0, 0
   index: -1
+gradient_5.2
+  rotate: false
+  xy: 2, 1585
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+grgrg
+  rotate: false
+  xy: 512, 1877
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
 light2_2
   rotate: false
-  xy: 118, 1948
+  xy: 118, 1974
   size: 29, 28
   orig: 29, 28
   offset: 0, 0
   index: -1
 lightpoint
   rotate: false
-  xy: 248, 1925
+  xy: 248, 1951
   size: 51, 51
   orig: 51, 51
   offset: 0, 0
   index: -1
 lightpoints2
   rotate: false
-  xy: 301, 1909
+  xy: 433, 1935
   size: 77, 67
   orig: 77, 67
   offset: 0, 0
   index: -1
 mw_MEGA
   rotate: false
-  xy: 2, 1340
+  xy: 2, 1352
   size: 529, 180
   orig: 529, 180
   offset: 0, 0
   index: -1
 mw_WIN
   rotate: false
-  xy: 1455, 1495
+  xy: 1303, 1500
   size: 414, 174
   orig: 414, 174
   offset: 0, 0
   index: -1
-number_total
+popup_impact_1
   rotate: false
-  xy: 617, 1839
-  size: 554, 137
-  orig: 554, 137
-  offset: 0, 0
-  index: -1
-round_light
-  rotate: false
-  xy: 380, 1882
-  size: 96, 94
-  orig: 96, 94
+  xy: 1591, 858
+  size: 326, 300
+  orig: 326, 300
   offset: 0, 0
   index: -1
 sticky_base
   rotate: false
-  xy: 2, 1045
+  xy: 2, 1056
   size: 865, 234
   orig: 865, 234
   offset: 0, 0
   index: -1
 sticky_border
   rotate: false
-  xy: 2, 683
+  xy: 2, 688
   size: 940, 302
   orig: 940, 302
   offset: 0, 0
   index: -1
 sticky_gem
   rotate: false
-  xy: 198, 1929
+  xy: 198, 1955
   size: 48, 47
   orig: 48, 47
   offset: 0, 0
   index: -1
 sticky_win
   rotate: false
-  xy: 306, 1687
+  xy: 456, 1709
   size: 792, 150
   orig: 792, 150
   offset: 0, 0
   index: -1
 sw_SUPER
   rotate: false
-  xy: 885, 1496
+  xy: 413, 1534
   size: 568, 173
   orig: 568, 173
   offset: 0, 0
   index: -1
 sw_WIN
   rotate: false
-  xy: 189, 1522
+  xy: 1628, 1676
   size: 374, 163
   orig: 374, 163
   offset: 0, 0
   index: -1
 total_WIN
   rotate: false
-  xy: 1173, 1835
+  xy: 639, 1861
   size: 783, 141
   orig: 783, 141
   offset: 0, 0
   index: -1
 total_base
   rotate: false
-  xy: 974, 1278
+  xy: 1009, 1283
   size: 646, 215
   orig: 646, 215
   offset: 0, 0
   index: -1
 total_border
   rotate: false
-  xy: 869, 987
+  xy: 869, 992
   size: 720, 289
   orig: 720, 289
   offset: 0, 0
   index: -1
 total_gem
   rotate: false
-  xy: 149, 1930
+  xy: 149, 1956
   size: 47, 46
   orig: 47, 46
   offset: 0, 0
   index: -1
 tw_fx_1
   rotate: false
-  xy: 2, 221
+  xy: 2, 226
   size: 767, 460
   orig: 767, 460
   offset: 0, 0
   index: -1
 tw_statue_L
   rotate: true
-  xy: 944, 584
+  xy: 771, 82
   size: 387, 1032
   orig: 387, 1032
   offset: 0, 0
   index: -1
 tx/xx0001
   rotate: true
-  xy: 2, 1951
+  xy: 2, 1977
   size: 25, 27
   orig: 25, 27
   offset: 0, 0
   index: -1
 tx/xx0002
   rotate: true
-  xy: 31, 1951
+  xy: 31, 1977
   size: 25, 27
   orig: 25, 27
   offset: 0, 0
   index: -1
 tx/xx0003
   rotate: true
-  xy: 60, 1951
+  xy: 60, 1977
   size: 25, 27
   orig: 25, 27
   offset: 0, 0
   index: -1
 tx/xx0005
   rotate: true
-  xy: 89, 1951
+  xy: 89, 1977
   size: 25, 27
   orig: 25, 27
+  offset: 0, 0
+  index: -1
+{fs}12
+  rotate: true
+  xy: 944, 471
+  size: 519, 536
+  orig: 519, 536
   offset: 0, 0
   index: -1
 
@@ -283,57 +304,57 @@ tw_fx_4
   orig: 1113, 659
   offset: 0, 0
   index: -1
-{fs}12
-  rotate: true
-  xy: 1117, 146
-  size: 519, 536
-  orig: 519, 536
-  offset: 0, 0
-  index: -1
 
 s12_popup3.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+bw_statue_L
+  rotate: true
+  xy: 2, 1619
+  size: 411, 949
+  orig: 411, 949
+  offset: 0, 0
+  index: -1
 mw_side_L
   rotate: true
-  xy: 2, 415
+  xy: 2, 368
   size: 423, 1202
   orig: 423, 1202
   offset: 0, 0
   index: -1
 mw_statue_L
   rotate: true
-  xy: 549, 1631
+  xy: 953, 1619
   size: 411, 949
   orig: 411, 949
   offset: 0, 0
   index: -1
 mw_statue_L_glow
   rotate: true
-  xy: 549, 1218
+  xy: 2, 1206
   size: 411, 949
   orig: 411, 949
   offset: 0, 0
   index: -1
 sw_statue_L
-  rotate: false
-  xy: 1206, 267
+  rotate: true
+  xy: 953, 1206
   size: 411, 949
   orig: 411, 949
   offset: 0, 0
   index: -1
 sw_statue_L_glow
   rotate: true
-  xy: 2, 2
+  xy: 2, 793
   size: 411, 949
   orig: 411, 949
   offset: 0, 0
   index: -1
 tw_bg_L
   rotate: false
-  xy: 2, 840
+  xy: 1206, 2
   size: 545, 1202
   orig: 545, 1202
   offset: 0, 0
