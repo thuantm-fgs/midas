@@ -138,3 +138,7 @@ X7message.popup_unexpected_error4
 englishBet History
 O:"message.popup_duplicate_connection'
 englishLogged in on another device.
+_;message.popup_session_expired<
+english1Your session has expired. Please reload the game!
+V<message.popup_game_disabled5
+english*Under maintenance. Please try again later.

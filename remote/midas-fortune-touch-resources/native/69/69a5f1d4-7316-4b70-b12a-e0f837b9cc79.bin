@@ -8,3 +8,6 @@
 &"message.popup_insufficient_balance
 "message.popup_unexpected_error
 &	"message.popup_duplicate_connection
+!
+message.popup_session_expired
+message.popup_game_disabled
