@@ -27,65 +27,58 @@ count_3
   index: -1
 eff_quan_c
   rotate: false
-  xy: 839, 933
+  xy: 483, 933
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 frame_number_1 1
   rotate: false
-  xy: 339, 868
+  xy: 2, 890
   size: 167, 71
   orig: 167, 71
   offset: 0, 0
   index: -1
 frame_number_2 1
   rotate: false
-  xy: 2, 892
+  xy: 549, 928
   size: 166, 69
   orig: 166, 69
   offset: 0, 0
   index: -1
 frame_number_3
   rotate: false
-  xy: 170, 890
+  xy: 717, 927
   size: 167, 70
   orig: 167, 70
   offset: 0, 0
   index: -1
 hg
   rotate: false
-  xy: 2, 738
+  xy: 304, 652
   size: 258, 150
   orig: 258, 150
   offset: 0, 0
   index: -1
 lightBall_b1
   rotate: true
-  xy: 508, 842
+  xy: 171, 864
   size: 97, 106
   orig: 97, 106
   offset: 0, 0
   index: -1
 sg
   rotate: false
-  xy: 616, 789
+  xy: 2, 667
   size: 300, 135
   orig: 300, 135
   offset: 0, 0
   index: -1
 sparkle_small
   rotate: false
-  xy: 905, 926
+  xy: 886, 926
   size: 71, 71
   orig: 71, 71
-  offset: 0, 0
-  index: -1
-tx_any
-  rotate: false
-  xy: 483, 941
-  size: 354, 56
-  orig: 354, 56
   offset: 0, 0
   index: -1
 tx_grandjackpot
@@ -97,7 +90,7 @@ tx_grandjackpot
   index: -1
 tx_more_glow
   rotate: false
-  xy: 2, 678
+  xy: 2, 804
   size: 995, 58
   orig: 995, 58
   offset: 0, 0
